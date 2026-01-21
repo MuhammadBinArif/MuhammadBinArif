@@ -38,7 +38,6 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 | **Backend & Database** | <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/> |
 | **Version Control** | <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 | **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> |
-| **Development Tools** | [GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -49,7 +48,7 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 | **Overall Contributions**   | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" /> |
 | **Top Languages**           | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=vue&hide_border=true&layout=compact" /> |
 | **Streak**                  | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=github_dark&hide_border=false" /> |
-| **Visitors**                | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> |
+username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> |
 
 > ⚠️ *Note: Stats may appear limited due to low public activity. Keep contributing!*
 
