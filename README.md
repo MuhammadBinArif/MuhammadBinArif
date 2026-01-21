@@ -1,7 +1,7 @@
 # Muhammad Bin Arif  
 
 **Junior Mobile Developer** & **Flutter enthusiast**  
-📍 Pakistan • 📧 [mohammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com)  
+📍 Pakistan • 📧 [muhammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com)  
 
 ---  
 
@@ -21,10 +21,12 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 |                             |                                                                                |
 |-----------------------------|----------------------------------------------------------------------------------|
-| **Overall Contributions**   | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/> |
-| **Top Languages**           | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=dark&hide_border=false&count_private=false&layout=compact"/> |
-| **Streak**                  | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=dark&hide_border=false"/> |
-| **Visitors**                | <img src="https://visitcount.itsvg.in/api?id=MuhammadBinArif&icon=0&color=0"/>     |
+| **Overall Contributions**   | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=vue&hide_border=true&include_all_commits=true&count_private=false" /> |
+| **Top Languages**           | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=vue&hide_border=true&layout=compact" /> |
+| **Streak**                  | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=vue&hide_border=true" /> |
+| **Visitors**                | <img src="https://visitcount.itsvg.in/api?id=MuhammadBinArif&icon=6&color=6" /> |
+
+> ⚠️ *Note: Stats may appear limited due to low public activity. Keep contributing!*
 
 ---
 
@@ -32,12 +34,11 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 | Platform | Link |
 |----------|------|
-| <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" width="30"> | [facebook.com/https://web.facebook.com/profile.php?id=100082558133922](https://facebook.com/https://web.facebook.com/profile.php?id=100082558133922) |
-| <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" width="30"> | [instagram.com/muhammad_bin_arif123](https://instagram.com/muhammad_bin_arif123) |
-| <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="30"> | [linkedin.com/in/muhammad-bin-arif-264036242](https://linkedin.com/in/muhammad-bin-arif-264036242) |
-| <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="30"> | [muhammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com) |
+| <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="28"> | [instagram.com/muhammad_bin_arif123](https://instagram.com/muhammad_bin_arif123) |
+| <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28"> | [linkedin.com/in/muhammad-bin-arif-264036242](https://linkedin.com/in/muhammad-bin-arif-264036242) |
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"> | [muhammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com) |
 
-*(Replace the duplicated URLs with the correct ones shown above.)*
+> ❌ *Facebook link removed due to invalid/blocked URL.*
 
 ---
 
@@ -45,12 +46,10 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 | Category | Tools / Languages |
 |----------|-------------------|
-| **Mobile Development** | <img src="https://img.shields.io/badge/dart-0175C2.svg?style=plastic&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white"/> |
-| **Backend & Database** | <img src="https://img.shields.io/badge/firebase-039BE5.svg?style=plastic&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=plastic&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405e.svg?style=plastic&logo=sqlite&logoColor=white"/> |
-| **Version Control** | <img src="https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=plastic&logo=github&logoColor=white"/> |
-| **Languages** | <img src="https://img.shields.io/badge/java-ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/> |
-
-> **Tip:** You can expand this table with more tools (e.g., CI/CD, testing frameworks) as you grow.
+| **Mobile Development** | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
+| **Backend & Database** | <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/> |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> |
 
 ---
 
@@ -58,39 +57,36 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 | Skill | Why I'm learning it | Resources |
 |------|---------------------|-----------|
-| Clean Architecture in Flutter | Write maintainable, test‑able code at scale | [Clean Architecture – Robert C. Martin (Book)](https://www.oreilly.com/library/view/clean-architecture-a-practical/), official Flutter docs |
+| Clean Architecture in Flutter | Write maintainable, test‑able code at scale | [Clean Architecture – Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a-practical/), official Flutter docs |
 | Advanced Animations | Create smooth, engaging UI experiences | [Flutter Animations – official tutorial](https://flutter.dev/docs/development/ui/animations) |
 | Backend Integration | Connect Flutter apps to scalable APIs | Firebase Docs, Supabase SDK |
-| Modern Dev Practices | CI/CD, code review, automated testing | GitHub Actions, GitHub Copilot, TDD guides |
+| Modern Dev Practices | CI/CD, code review, automated testing | GitHub Actions, TDD guides |
 
 ---
 
-## 🛠️ Featured Projects *(placeholders – replace with your own repo links / screenshots)*  
+## 🛠️ Featured Projects  
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **BlogFlow ** | A modern Flutter app that streams and curates blog content, delivering a fast, distraction‑free reading experience. | Flutter, Firebase Auth, Firestore, Cloudinary Database | [github.com/MuhammadBinArif/blog flow using flutter](https://github.com/MuhammadBinArif/blog_flow_using_flutter) |
-| **CleanCalculator** | A sleek, Material Design 3 calculator built with Flutter, Clean Architecture, and Riverpod state management, featuring robust error handling and a fully responsive UI. | Flutter, Clean Architecture, Riverpod | [github.com/MuhammadBinArif/Clean_Calculator](https://github.com/MuhammadBinArif/Clean_Calculator) |
-| **NotesApp** | A feature‑rich, offline‑first notes app built with Flutter, Clean Architecture, Riverpod state management, and Sqflite for reliable local storage. | Flutter, SqfLite, Clean Architecture, State Management, Go_router | [github.com/MuhammadBinArif/Notes_Taking_App_Using_Sqflite](https://github.com/MuhammadBinArif/Notes_Taking_App_Using_Sqflite) |
-
-
-*(Add more projects or rearrange as needed.)*
+| **BlogFlow** | A modern Flutter app that streams and curates blog content, delivering a fast, distraction‑free reading experience. | Flutter, Firebase Auth, Firestore, Cloudinary | [GitHub](https://github.com/MuhammadBinArif/blog_flow_using_flutter) |
+| **CleanCalculator** | A sleek, Material Design 3 calculator built with Flutter, Clean Architecture, and Riverpod state management. | Flutter, Clean Architecture, Riverpod | [GitHub](https://github.com/MuhammadBinArif/Clean_Calculator) |
+| **NotesApp** | A feature‑rich, offline‑first notes app with Sqflite for reliable local storage. | Flutter, SqfLite, Clean Architecture, Go_router | [GitHub](https://github.com/MuhammadBinArif/Notes_Taking_App_Using_Sqflite) |
 
 ---
 
 ## 🏆 What I’m Looking For  
 
 - **Collaboration** on open‑source Flutter components or community packages.  
-- **Mentorship** or partnership on production‑grade mobile apps that require high performance and maintainable architecture.  
-- **Internships / junior roles** where I can dive deep into full‑stack mobile development.
+- **Mentorship** or partnership on production‑grade mobile apps requiring high performance and clean architecture.  
+- **Internships / junior roles** in full‑stack mobile development.
 
 ---
 
 ## 📝 Wrap‑Up  
 
-I’m always eager to learn, share knowledge, and contribute to projects that make a real impact.  
+I’m always eager to learn, share knowledge, and contribute to impactful projects.  
 Feel free to explore my repos, star the ones you find useful, and **let’s build something awesome together!**
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly crafted with ❤️ -->
