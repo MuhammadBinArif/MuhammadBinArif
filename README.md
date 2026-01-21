@@ -1,38 +1,95 @@
-## Hi, I'm Muhammad Bin Arif! 👋
-Passionate and skilled Junior Mobile Developer with expertise in building robust applications for both Android and iOS platforms. I am proficient in cross-platform development using the Flutter framework (Dart).
-🔭 Currently: Turning complex ideas into beautiful and high-performance Flutter apps powered by scalable backend systems<br>
-👯 Looking to collaborate: Flutter projects, real-time apps, and mobile solutions that solve real-world problems
-🤝 Seeking help with: Advanced state management, API optimization, and improving app performance at scale
-🌱 Learning: Clean architecture in Flutter, advanced animations, backend integration, and modern development practices
-💬 Ask me about: Flutter UI/UX, Dart, Firebase, REST APIs, app architecture
-I am passionate about writing clean, efficient code and am eager to contribute to a innovative team where I can leverage my full-stack mobile skills to build products that users love.
+# Muhammad Bin Arif  
 
-# Development Principles:
-Clean Code, API Integration, UI/UX Implementation
+**Junior Mobile Developer** & **Flutter enthusiast**  
+📍 Pakistan • 📧 [mohammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com)  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100082558133922) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muhammad_bin_arif123/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-bin-arif-264036242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadbinarif2002@gmail.com) 
+---  
 
-# 💻 Tech Stack:
+## 👋 About Me  
 
-# Mobile Development
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 
+Passionate about turning complex ideas into fast, beautiful, and high‑performing mobile experiences. I specialize in **cross‑platform development with Flutter (Dart)** and enjoy building backend‑integrated, real‑time apps that solve real‑world problems.
 
-# Backend & Database
-[Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
-# Languages
-[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadBinArif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🔭 **Currently:** Designing scalable Flutter apps with resilient backend systems.  
+* 👯 **Looking to collaborate:** Clean‑code Flutter projects, backend‑driven features, and UI/UX‑focused mobile solutions.  
+* 🤝 **Seeking help with:** Advanced state management, API optimisation, and performance tuning at scale.  
+* 🌱 **Learning now:** Clean Architecture in Flutter, custom animations, robust backend integration, and modern dev practices.  
+* 💬 **Ask me about:** Flutter UI/UX, Dart internals, Firebase, REST APIs, and overall mobile architecture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammadBinArif&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats  
+
+|                             |                                                                                |
+|-----------------------------|----------------------------------------------------------------------------------|
+| **Overall Contributions**   | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/> |
+| **Top Languages**           | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=dark&hide_border=false&count_private=false&layout=compact"/> |
+| **Streak**                  | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=dark&hide_border=false"/> |
+| **Visitors**                | <img src="https://visitcount.itsvg.in/api?id=MuhammadBinArif&icon=0&color=0"/>     |
+
+---
+
+## 🌐 Socials  
+
+| Platform | Link |
+|----------|------|
+| <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" width="30"> | [facebook.com/https://web.facebook.com/profile.php?id=100082558133922](https://facebook.com/https://web.facebook.com/profile.php?id=100082558133922) |
+| <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" width="30"> | [instagram.com/muhammad_bin_arif123](https://instagram.com/muhammad_bin_arif123) |
+| <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="30"> | [linkedin.com/in/muhammad-bin-arif-264036242](https://linkedin.com/in/muhammad-bin-arif-264036242) |
+| <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="30"> | [muhammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com) |
+
+*(Replace the duplicated URLs with the correct ones shown above.)*
+
+---
+
+## 💻 Tech Stack  
+
+| Category | Tools / Languages |
+|----------|-------------------|
+| **Mobile Development** | <img src="https://img.shields.io/badge/dart-0175C2.svg?style=plastic&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=plastic&logo=flutter&logoColor=white"/> |
+| **Backend & Database** | <img src="https://img.shields.io/badge/firebase-039BE5.svg?style=plastic&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=plastic&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405e.svg?style=plastic&logo=sqlite&logoColor=white"/> |
+| **Version Control** | <img src="https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=plastic&logo=github&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/java-ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/> |
+
+> **Tip:** You can expand this table with more tools (e.g., CI/CD, testing frameworks) as you grow.
+
+---
+
+## 📚 Current Learning  
+
+| Skill | Why I'm learning it | Resources |
+|------|---------------------|-----------|
+| Clean Architecture in Flutter | Write maintainable, test‑able code at scale | [Clean Architecture – Robert C. Martin (Book)](https://www.oreilly.com/library/view/clean-architecture-a-practical/), official Flutter docs |
+| Advanced Animations | Create smooth, engaging UI experiences | [Flutter Animations – official tutorial](https://flutter.dev/docs/development/ui/animations) |
+| Backend Integration | Connect Flutter apps to scalable APIs | Firebase Docs, Supabase SDK |
+| Modern Dev Practices | CI/CD, code review, automated testing | GitHub Actions, GitHub Copilot, TDD guides |
+
+---
+
+## 🛠️ Featured Projects *(placeholders – replace with your own repo links / screenshots)*  
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **TravelMate** | A travel‑planner app with maps, user‑generated itineraries, and realtime updates. | Flutter, Firebase Auth, Firestore, Google Maps API | [github.com/MuhammadBinArif/travelmate](https://github.com/MuhammadBinArif/travelmate) |
+| **ChatWave** | Real‑time chat with media sharing and push notifications. | Flutter, Supabase Realtime, Riverpod | [github.com/MuhammadBinArif/chatwave](https://github.com/MuhammadBinArif/chatwave) |
+| **FitTrack** | Fitness tracker with activity logging, goal setting, and progress charts. | Flutter, Hive DB, Charting library | [github.com/MuhammadBinArif/fittrack](https://github.com/MuhammadBinArif/fittrack) |
+
+*(Add more projects or rearrange as needed.)*
+
+---
+
+## 🏆 What I’m Looking For  
+
+- **Collaboration** on open‑source Flutter components or community packages.  
+- **Mentorship** or partnership on production‑grade mobile apps that require high performance and maintainable architecture.  
+- **Internships / junior roles** where I can dive deep into full‑stack mobile development.
+
+---
+
+## 📝 Wrap‑Up  
+
+I’m always eager to learn, share knowledge, and contribute to projects that make a real impact.  
+Feel free to explore my repos, star the ones you find useful, and **let’s build something awesome together!**
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
