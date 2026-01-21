@@ -43,16 +43,14 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 ## 📊 GitHub Stats  
 
-|                             |                                                                                |
-|-----------------------------|----------------------------------------------------------------------------------|
-| **Overall Contributions**   | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" /> |
-| **Top Languages**           | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=vue&hide_border=true&layout=compact" /> |
-| **Streak**                  | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=github_dark&hide_border=false" /> |
-username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> |
+|                              |                                                                                |
+|------------------------------|----------------------------------------------------------------------------------|
+| **Overall Contributions**    | <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBinArif&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" /> |
+| **Top Languages**            | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinArif&theme=vue&hide_border=true&layout=compact" /> |
+| **Streak**                   | <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadBinArif&theme=github_dark&hide_border=false" /> |
 
-> ⚠️ *Note: Stats may appear limited due to low public activity. Keep contributing!*
+> **Note:** Stats may appear limited due to low public activity. Keep contributing!
 
----
 
 ## 📚 Current Learning  
 
