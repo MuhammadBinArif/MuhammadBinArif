@@ -69,9 +69,10 @@ Passionate about turning complex ideas into fast, beautiful, and high‑performi
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **TravelMate** | A travel‑planner app with maps, user‑generated itineraries, and realtime updates. | Flutter, Firebase Auth, Firestore, Google Maps API | [github.com/MuhammadBinArif/travelmate](https://github.com/MuhammadBinArif/travelmate) |
-| **ChatWave** | Real‑time chat with media sharing and push notifications. | Flutter, Supabase Realtime, Riverpod | [github.com/MuhammadBinArif/chatwave](https://github.com/MuhammadBinArif/chatwave) |
-| **FitTrack** | Fitness tracker with activity logging, goal setting, and progress charts. | Flutter, Hive DB, Charting library | [github.com/MuhammadBinArif/fittrack](https://github.com/MuhammadBinArif/fittrack) |
+| **BlogFlow ** | A modern Flutter app that streams and curates blog content, delivering a fast, distraction‑free reading experience. | Flutter, Firebase Auth, Firestore, Cloudinary Database | [github.com/MuhammadBinArif/blog flow using flutter](https://github.com/MuhammadBinArif/blog_flow_using_flutter) |
+| **CleanCalculator** | A sleek, Material Design 3 calculator built with Flutter, Clean Architecture, and Riverpod state management, featuring robust error handling and a fully responsive UI. | Flutter, Clean Architecture, Riverpod | [github.com/MuhammadBinArif/Clean_Calculator](https://github.com/MuhammadBinArif/Clean_Calculator) |
+| **NotesApp** | A feature‑rich, offline‑first notes app built with Flutter, Clean Architecture, Riverpod state management, and Sqflite for reliable local storage. | Flutter, SqfLite, Clean Architecture, State Management, Go_router | [github.com/MuhammadBinArif/Notes_Taking_App_Using_Sqflite](https://github.com/MuhammadBinArif/Notes_Taking_App_Using_Sqflite) |
+
 
 *(Add more projects or rearrange as needed.)*
 
