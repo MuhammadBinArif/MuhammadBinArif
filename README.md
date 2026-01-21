@@ -1,6 +1,6 @@
 ## Hi, I'm Muhammad Bin Arif! 👋
 Passionate and skilled Junior Mobile Developer with expertise in building robust applications for both Android and iOS platforms. I am proficient in cross-platform development using the Flutter framework (Dart).
-🔭 Currently: Turning complex ideas into beautiful and high-performance Flutter apps powered by scalable backend systems
+🔭 Currently: Turning complex ideas into beautiful and high-performance Flutter apps powered by scalable backend systems<br>
 👯 Looking to collaborate: Flutter projects, real-time apps, and mobile solutions that solve real-world problems
 🤝 Seeking help with: Advanced state management, API optimization, and improving app performance at scale
 🌱 Learning: Clean architecture in Flutter, advanced animations, backend integration, and modern development practices
