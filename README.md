@@ -1,6 +1,6 @@
 # Muhammad Bin Arif  
 
-**Junior Mobile Developer** & **Flutter enthusiast**  
+**Flutter enthusiast** & **Cross-Platform app developer**  
 📍 Pakistan • 📧 [muhammadbinarif2002@gmail.com](mailto:muhammadbinarif2002@gmail.com)  
 
 ---  
